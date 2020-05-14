@@ -1,0 +1,32 @@
+# Parameters:  Anzahl Cliquen: 2; Minimale Clustergröße: 3; Maximale Clustergröße: 32; Parameter (maximal): 6
+# Properties: directed:FALSE, weighted:FALSE, force simple:TRUE
+# Vertices: 11; Edges: 29
+C2_6 C2_2
+C2_3 C2_1
+C2_7 C2_1
+C2_2 C2_1
+C2_4 C2_3
+C2_5 C2_0
+C2_5 C2_1
+C1_2 C2_2
+C2_7 C2_3
+C2_7 C2_6
+C2_5 C2_3
+C2_4 C2_1
+C2_2 C2_0
+C1_1 C1_0
+C2_6 C2_3
+C2_7 C2_0
+C2_5 C2_2
+C1_1 C2_5
+C1_2 C1_1
+C2_6 C2_0
+C2_3 C2_0
+C2_3 C2_2
+C2_6 C2_5
+C1_2 C1_0
+C2_1 C2_0
+C2_4 C2_2
+C2_7 C2_5
+C2_6 C2_4
+C2_5 C2_4
